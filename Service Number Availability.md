@@ -2,9 +2,11 @@
 
 The table below contains all countries that support Service numbers as well as whether toll and/or toll-free numbers are available. Service numbers are used for Audio Conferencing and Voice Apps.
 
-If Microsoft does not provide numbers for a country below, try other PSTN options like Operator Connect or Direct Routing.
+If Microsoft does not provide numbers for a country below, try other PSTN options like Operator Connect or Direct Routing. Note that some countries may not allow service numbers to be used for Voice Apps at all. This information is indicated in the table.
 
 For a list of countries regarding where porting numbers to Microsoft may be possible, please check [Managing Phone Numbers](../managingphone)
+
+Please note that toll-free numbers require Communication Credits as these calls are billed by minute. Please see [Communication Credits Availability](CommunicationCreditsAvailability.md) to see a country-specific availability for Communication Credits.
 
 |**Country**|**Numbers Available for Audio Conferencing?**|**Numbers Available for Voice Apps?**|**Toll Numbers Available**|**Toll Free Numbers Available**|**Cities that Support Toll Numbers**|
 |:-----|:-----|:-----|:-----|:-----|:-----|
@@ -56,7 +58,7 @@ For a list of countries regarding where porting numbers to Microsoft may be poss
 |Honduras <br/> |Yes <br/> | No<br/> |Yes  <br/> | Yes  <br/> |  Yes  <br/> |
 |Hong Kong <br/> |Yes <br/> | No<br/> |Yes  <br/> | Yes  <br/> |  Yes  <br/> |
 |Hungary <br/> |Yes <br/> | No<br/> |Yes  <br/> | Yes  <br/> |  Yes  <br/> |
-|India <br/> |Yes <br/> | No<br/> |Yes  <br/> | Yes  <br/> |  Yes  <br/> |
+|India <br/> |Yes <br/> | Not Allowed<br/> |Yes  <br/> | Yes  <br/> |  Yes  <br/> |
 |Indonesia <br/> |Yes <br/> | No<br/> |Yes  <br/> | Yes  <br/> |  Yes  <br/> |
 |Ireland <br/> |Yes <br/> | No<br/> |Yes  <br/> | Yes  <br/> |  Yes  <br/> |
 |Israel <br/> |Yes <br/> | No<br/> |Yes  <br/> | Yes  <br/> |  Yes  <br/> |

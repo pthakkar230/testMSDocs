@@ -1,10 +1,10 @@
 # Calling Plans Availability
 
-The table below contains all countries that support Calling Plans. Calling Plans allow you to get phone numbers for your users.
+The table below contains all countries that support Calling Plans. Calling Plans licenses allow you to get phone numbers for your users.
 
 For a list of countries regarding where porting numbers to Microsoft may be possible, please check [Managing Phone Numbers](../managingphone) or click on one of the country names below.
 
-|**Country**|**Available**|**Domestic Calling Plan**|**International Calling Plan**|**Pay-As-You Go Calling Plan**|**Can Make Outbound Calls**|**Can Make Outbound Calls to Premium Numbers**|
+|**Country**|**Available**|**Domestic Calling Plan**|**International Calling Plan**|**Pay-As-You-Go Calling Plan**|**Can Make Outbound Calls**|**Can Make Outbound Calls to Premium Numbers**|
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |[Australia](../phone-number-management-for-canada.md)<br/> |Yes  <br/> |120/240/1200 minute plans available  <br/> |Yes  <br/> |Yes  <br/> | Yes  <br/> | Yes  <br/> |
 |[Austria](../phone-number-management-for-canada.md)<br/> |Yes  <br/> |120/240/1200 minute plans available  <br/> |Yes  <br/> |Yes  <br/> | Yes  <br/> | Yes  <br/> |

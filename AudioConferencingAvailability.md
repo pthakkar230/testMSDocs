@@ -2,6 +2,8 @@
 
 The table below contains all countries that support Audio Conferencing. For specific number availability, please check [Service Number Availability](Service%20Number%20Availability.md).
 
+Please note that some countries require Communication Credits in order to dial out using the Call Me feature. Please see [Communication Credits Availability](CommunicationCreditsAvailability.md) to see a country-specific availability for Communication Credits.
+
 |**Country**|**Feature Available?**|**Auto Assigned Numbers?**|**Dial-Out-Capability Using Call Me Feature**|
 |:-----|:-----|:-----|:-----|
 |Albania  <br/> |Yes, [pay-per-minute](../audio-conferencing-pay-per-minute.md) only   <br/> |No  <br/> |Available with Communication Credits Pay-Per-Minute  <br/> |
