@@ -10,12 +10,11 @@ The table below contains all countries that support Audio Conferencing. For spec
 >
 > Please note that countries that allow you to dial out using the Call Me feature require Communication Credits. Please see [Communication Credits Availability](CommunicationCreditsAvailability.md) to see a country-specific availability for Communication Credits.
 
-Countries
-- [Audio Conferencing Availability](#audio-conferencing-availability)
-  - [Countries A-B](#countries-a-b)
-  - [Countries C-I](#countries-c-i)
-  - [Countries J-Q](#countries-j-q)
-  - [Countries R-Z](#countries-r-z)
+Countries:
+- [Countries A-B](#countries-a-b)
+- [Countries C-I](#countries-c-i)
+- [Countries J-Q](#countries-j-q)
+- [Countries R-Z](#countries-r-z)
 
 ## Countries A-B
 | **Country**                | **Feature Available?**                                                      | **Auto Assigned Numbers?** | **Dial-Out-Capability Using Call Me Feature**              |
