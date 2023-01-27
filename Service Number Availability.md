@@ -3,6 +3,8 @@
 In addition to getting phone numbers for individual users, it's also possible to search and acquire toll or toll free phone numbers for services such as Audio Conferencing (for conference bridges), auto attendants, and call queues. These are called service numbers.
   
 The following is a list of countries and their cities from where you can get toll service numbers to use with Audio Conferencing and Calling Plans. You get toll service numbers from these locations using the **Teams admin center**.
+
+If Microsoft does not provide numbers for a country below, try other PSTN options like Operator Connect or Direct Routing. Note that some countries may not allow service numbers to be used for Voice Apps at all. This information is indicated in the table.
   
 If you want to get a toll or toll free service number, you can see [Getting service phone numbers](../getting-service-phone-numbers.md). If you already have a toll or toll free service number that you want to transfer from a different provider, see [Manage phone numbers for your organization](../manage-phone-numbers-for-your-organization/manage-phone-numbers-for-your-organization.md).
 

@@ -9,6 +9,8 @@ You can also see [Microsoft Teams add-on licensing options](../teams-add-on-lice
 
 For a list of countries regarding where porting numbers to Microsoft may be possible, please check [Managing Phone Numbers](../managingphone) or click on one of the country names below.
 
+If Microsoft does not provide Calling Plans for a country below, try other PSTN options like Operator Connect or Direct Routing.
+
 - [Calling Plans Availability by Country](#calling-plans-availability-by-country)
   - [Countries A-L](#countries-a-l)
   - [Countries M-Z](#countries-m-z)
