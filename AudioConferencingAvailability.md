@@ -1,20 +1,20 @@
-# Audio Conferencing Availability
+# Audio Conferencing Availability by Country
 
 Sometimes people in your organization will need to use a phone to call in to a meeting. Teams includes the Audio Conferencing feature for just this situation! People can call in to meetings using a phone instead of using the Teams apps on a mobile device or PC. When you've decided that you want Audio Conferencing for your organization, buy one Audio Conferencing license for each person in your organization who is going to schedule/host an audio meeting.
 
-With Audio Conferencing, there are toll and toll free phone numbers that can be used by your users to dial in to meetings. Toll numbers from the following countries or regions are automatically assigned as shared audio conferencing numbers to organizations when they're enabled for Audio Conferencing. Dedicated toll and toll free numbers can be assigned to your organization from additional cities.
+With Audio Conferencing, there are toll and toll free phone numbers that can be used by your users to dial in to meetings. Toll numbers from the following countries or regions are automatically assigned as shared audio conferencing numbers to organizations when they're enabled for Audio Conferencing. Dedicated toll and toll free numbers can be assigned to your organization from additional cities. For specific toll and toll-free number availability, please check [Service Number Availability](Service%20Number%20Availability.md).
 
-The table below contains all countries that support Audio Conferencing. For specific toll and toll-free number availability, please check [Service Number Availability](Service%20Number%20Availability.md).
+The table below contains all countries that support Audio Conferencing. 
 
 > [!Important]
 >
 > Please note that countries that allow you to dial out using the Call Me feature require Communication Credits. Please see [Communication Credits Availability](CommunicationCreditsAvailability.md) to see a country-specific availability for Communication Credits.
 
-Countries:
-- [Countries A-B](#countries-a-b)
-- [Countries C-I](#countries-c-i)
-- [Countries J-Q](#countries-j-q)
-- [Countries R-Z](#countries-r-z)
+- [Audio Conferencing Availability by Country](#audio-conferencing-availability-by-country)
+  - [Countries A-B](#countries-a-b)
+  - [Countries C-I](#countries-c-i)
+  - [Countries J-Q](#countries-j-q)
+  - [Countries R-Z](#countries-r-z)
 
 ## Countries A-B
 | **Country**                | **Feature Available?**                                                      | **Auto Assigned Numbers?** | **Dial-Out-Capability Using Call Me Feature**              |

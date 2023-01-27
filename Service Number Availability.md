@@ -1,13 +1,22 @@
-# Service Numbers for Voice Apps and Audio Conferencing Availability
+# Service Numbers for Voice Apps and Audio Conferencing Availability by Country
 
-The table below contains all countries that support Service numbers as well as whether toll and/or toll-free numbers are available. Service numbers are used for Audio Conferencing and Voice Apps.
+In addition to getting phone numbers for individual users, it's also possible to search and acquire toll or toll free phone numbers for services such as Audio Conferencing (for conference bridges), auto attendants, and call queues. These are called service numbers.
+  
+The following is a list of countries and their cities from where you can get toll service numbers to use with Audio Conferencing and Calling Plans. You get toll service numbers from these locations using the **Teams admin center**.
+  
+If you want to get a toll or toll free service number, you can see [Getting service phone numbers](../getting-service-phone-numbers.md). If you already have a toll or toll free service number that you want to transfer from a different provider, see [Manage phone numbers for your organization](../manage-phone-numbers-for-your-organization/manage-phone-numbers-for-your-organization.md).
 
-If Microsoft does not provide numbers for a country below, try other PSTN options like Operator Connect or Direct Routing. Note that some countries may not allow service numbers to be used for Voice Apps at all. This information is indicated in the table.
+> [!Important]
+>
+> Please note that toll-free numbers require Communication Credits as these calls are billed by minute. Please see [Communication Credits Availability](CommunicationCreditsAvailability.md) to see a country-specific availability for Communication Credits.
 
-For a list of countries regarding where porting numbers to Microsoft may be possible, please check [Managing Phone Numbers](../managingphone)
+- [Service Numbers for Voice Apps and Audio Conferencing Availability by Country](#service-numbers-for-voice-apps-and-audio-conferencing-availability-by-country)
+  - [Countries A-B](#countries-a-b)
+  - [Countries C-I](#countries-c-i)
+  - [Countries J-Q](#countries-j-q)
+  - [Countries R-Z](#countries-r-z)
 
-Please note that toll-free numbers require Communication Credits as these calls are billed by minute. Please see [Communication Credits Availability](CommunicationCreditsAvailability.md) to see a country-specific availability for Communication Credits.
-
+## Countries A-B
 |**Country**|**Numbers Available for Audio Conferencing?**|**Numbers Available for Voice Apps?**|**Toll Numbers Available**|**Toll Free Numbers Available**|**Cities that Support Toll Numbers**|
 |:-----|:-----|:-----|:-----|:-----|:-----|
 |Albania  <br/> |Yes <br/> | No<br/> |Yes  <br/> | Yes  <br/> |  Yes  <br/> |
@@ -29,6 +38,10 @@ Please note that toll-free numbers require Communication Credits as these calls 
 |Brazil <br/> |Yes <br/> | No<br/> |Yes  <br/> | Yes  <br/> |  Yes  <br/> |
 |Brunei <br/> |Yes <br/> | No<br/> |Yes  <br/> | Yes  <br/> |  Yes  <br/> |
 |Bulgaria <br/> |Yes  <br/> |Yes  <br/> |Yes  <br/> |Yes  <br/> |
+
+## Countries C-I
+|**Country**|**Numbers Available for Audio Conferencing?**|**Numbers Available for Voice Apps?**|**Toll Numbers Available**|**Toll Free Numbers Available**|**Cities that Support Toll Numbers**|
+|:-----|:-----|:-----|:-----|:-----|:-----|
 |Cambodia <br/> |Yes <br/> | No<br/> |Yes  <br/> | Yes  <br/> |  Yes  <br/> |
 |Cameroon <br/> |Yes <br/> | No<br/> |Yes  <br/> | Yes  <br/> |  Yes  <br/> |
 |Canada <br/> |Yes <br/> | Yes<br/> |Yes  <br/> | Yes  <br/> |  Yes  <br/> |
@@ -63,6 +76,10 @@ Please note that toll-free numbers require Communication Credits as these calls 
 |Ireland <br/> |Yes <br/> | No<br/> |Yes  <br/> | Yes  <br/> |  Yes  <br/> |
 |Israel <br/> |Yes <br/> | No<br/> |Yes  <br/> | Yes  <br/> |  Yes  <br/> |
 |Italy <br/> |Yes <br/> | No<br/> |Yes  <br/> | Yes  <br/> |  Yes  <br/> |
+
+## Countries J-Q
+|**Country**|**Numbers Available for Audio Conferencing?**|**Numbers Available for Voice Apps?**|**Toll Numbers Available**|**Toll Free Numbers Available**|**Cities that Support Toll Numbers**|
+|:-----|:-----|:-----|:-----|:-----|:-----|
 |Jamaica <br/> |Yes <br/> | No<br/> |Yes  <br/> | Yes  <br/> |  Yes  <br/> |
 |Japan <br/> |Yes <br/> | No<br/> |Yes  <br/> | Yes  <br/> |  Yes  <br/> |
 |Jordan <br/> |Yes <br/> | No<br/> |Yes  <br/> | Yes  <br/> |  Yes  <br/> |
@@ -93,6 +110,10 @@ Please note that toll-free numbers require Communication Credits as these calls 
 |Portugal <br/> |Yes <br/> | No<br/> |Yes  <br/> | Yes  <br/> |  Yes  <br/> |
 |Puerto Rico <br/> |Yes <br/> | No<br/> |Yes  <br/> | Yes  <br/> |  Yes  <br/> |
 |Qatar <br/> |Yes <br/> | No<br/> |Yes  <br/> | Yes  <br/> |  Yes  <br/> |
+
+## Countries R-Z
+|**Country**|**Numbers Available for Audio Conferencing?**|**Numbers Available for Voice Apps?**|**Toll Numbers Available**|**Toll Free Numbers Available**|**Cities that Support Toll Numbers**|
+|:-----|:-----|:-----|:-----|:-----|:-----|
 |Romania <br/> |Yes <br/> | No<br/> |Yes  <br/> | Yes  <br/> |  Yes  <br/> |
 |Russia <br/> |Yes <br/> | No<br/> |Yes  <br/> | Yes  <br/> |  Yes  <br/> |
 |Saint Kitts and Nevis <br/> |Yes <br/> | No<br/> |Yes  <br/> | Yes  <br/> |  Yes  <br/> |

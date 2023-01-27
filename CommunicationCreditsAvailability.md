@@ -1,7 +1,14 @@
-# Communication Credits Availability
+# Communication Credits Availability by Country
 
 The table below contains all countries that support [Communication Credits](../insertlinkhere) product. Communication Credits can be used to pay for toll-free calls that are billed by minute and can be used in conjunction with your existing Calling Plans as well.
 
+- [Communication Credits Availability by Country](#communication-credits-availability-by-country)
+  - [Countries A-B](#countries-a-b)
+  - [Countries C-I](#countries-c-i)
+  - [Countries J-Q](#countries-j-q)
+  - [Countries R-Z](#countries-r-z)
+
+## Countries A-B
 |**Country**|**Feature Available?**|
 |:-----|:-----|
 |Albania <br/> |Yes  <br/> |
@@ -23,6 +30,10 @@ The table below contains all countries that support [Communication Credits](../i
 |Brazil <br/> |Yes  <br/> |
 |Brunei <br/> |Yes  <br/> |
 |Bulgaria <br/> |Yes  <br/> |
+
+## Countries C-I
+|**Country**|**Feature Available?**|
+|:-----|:-----|
 |Cambodia <br/> |Yes  <br/> |
 |Cameroon <br/> |Yes  <br/> |
 |Canada <br/> |Yes  <br/> |
@@ -57,6 +68,11 @@ The table below contains all countries that support [Communication Credits](../i
 |Ireland <br/> |Yes  <br/> |
 |Israel <br/> |Yes  <br/> |
 |Italy <br/> |Yes  <br/> |
+
+
+## Countries J-Q
+|**Country**|**Feature Available?**|
+|:-----|:-----|
 |Jamaica <br/> |Yes  <br/> |
 |Japan <br/> |Yes  <br/> |
 |Jordan <br/> |Yes  <br/> |
@@ -87,6 +103,11 @@ The table below contains all countries that support [Communication Credits](../i
 |Portugal <br/> |Yes  <br/> |
 |Puerto Rico <br/> |Yes  <br/> |
 |Qatar <br/> |Yes  <br/> |
+
+
+## Countries R-Z
+|**Country**|**Feature Available?**|
+|:-----|:-----|
 |Romania <br/> |Yes  <br/> |
 |Russia <br/> |Yes  <br/> |
 |Saint Kitts and Nevis <br/> |Yes  <br/> |

@@ -1,4 +1,4 @@
-# Phone System Availablility
+# Phone System Availablility by Country
 
 The table below contains all countries that support the [Phone System](../insertlinkhere) product. Phone system encompasses the entire suite of features that allow call control between users and enable VoiceApp features like auto attendants, call queues, and voicemail.
 
@@ -9,6 +9,14 @@ Microsoft also sells phone numbers for your users and voice app features for you
 
 Alternatively, you can consider additional PSTN connectivity options like Operator Connect and Direct Routing. Please note you still require a phone system license to use those options.
 
+
+- [Phone System Availablility by Country](#phone-system-availablility-by-country)
+  - [Countries A-B](#countries-a-b)
+  - [Countries C-I](#countries-c-i)
+  - [Countries J-Q](#countries-j-q)
+  - [Countries R-Z](#countries-r-z)
+
+## Countries A-B
 |**Country**|**Feature Available?**|
 |:-----|:-----|
 |Albania <br/> |Yes  <br/> |
@@ -30,6 +38,10 @@ Alternatively, you can consider additional PSTN connectivity options like Operat
 |Brazil <br/> |Yes  <br/> |
 |Brunei <br/> |Yes  <br/> |
 |Bulgaria <br/> |Yes  <br/> |
+
+## Countries C-I
+|**Country**|**Feature Available?**|
+|:-----|:-----|
 |Cambodia <br/> |Yes  <br/> |
 |Cameroon <br/> |Yes  <br/> |
 |Canada <br/> |Yes  <br/> |
@@ -64,6 +76,11 @@ Alternatively, you can consider additional PSTN connectivity options like Operat
 |Ireland <br/> |Yes  <br/> |
 |Israel <br/> |Yes  <br/> |
 |Italy <br/> |Yes  <br/> |
+
+
+## Countries J-Q
+|**Country**|**Feature Available?**|
+|:-----|:-----|
 |Jamaica <br/> |Yes  <br/> |
 |Japan <br/> |Yes  <br/> |
 |Jordan <br/> |Yes  <br/> |
@@ -94,6 +111,11 @@ Alternatively, you can consider additional PSTN connectivity options like Operat
 |Portugal <br/> |Yes  <br/> |
 |Puerto Rico <br/> |Yes  <br/> |
 |Qatar <br/> |Yes  <br/> |
+
+
+## Countries R-Z
+|**Country**|**Feature Available?**|
+|:-----|:-----|
 |Romania <br/> |Yes  <br/> |
 |Russia <br/> |Yes  <br/> |
 |Saint Kitts and Nevis <br/> |Yes  <br/> |
