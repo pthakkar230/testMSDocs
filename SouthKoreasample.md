@@ -26,7 +26,9 @@ Here are the Microsoft 365 and Office 365 services for Skype for Business and Mi
 | Minutes available for Calling Plans  <br/>      | Not applicable  <br/> |
 | Can make outbound calls to?  <br/>              | Not applicable  <br/> |
 
-Calling Plans are to purchase user numbers. If Calling Plans are not available to purchase, see [PSTN connectivity options](../pstn-connectivity.md) for all available options.
+Calling Plans are to purchase user numbers. If you want to get numbers for your users, see [Getting phone numbers for your users](https://learn.microsoft.com/en-us/microsoftteams/getting-phone-numbers-for-your-users)
+
+If Calling Plans are not available to purchase, see [PSTN connectivity options](../pstn-connectivity.md) for all available options. 
    
 ## [Toll and toll-free numbers for Services (VoiceApps and Audio Conferencing)](https://learn.microsoft.com/en-us/microsoftteams/country-and-region-availability-for-audio-conferencing-and-calling-plans/country-and-region-availability-for-audio-conferencing-and-calling-plans#microsoft-teams-calling-plans)
 
