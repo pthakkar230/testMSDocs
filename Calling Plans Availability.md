@@ -7,52 +7,96 @@ You can also see [Microsoft Teams add-on licensing options](../teams-add-on-lice
 > [!NOTE]
 > The country/region is based on the location of the user's license in the **Microsoft 365 admin center** > **Active Users** and **not** the billing address listed under the **Organization Profile** in the **Microsoft 365 admin center**.
 
-For a list of countries regarding where porting numbers to Microsoft may be possible, please check [Managing Phone Numbers](../managingphone) or click on one of the country names below.
-
-If Microsoft does not provide Calling Plans for a country below, try other PSTN options like Operator Connect or Direct Routing.
+The table below contains details regarding all countries that offer Calling Plans. For country-specif information on porting numbers to Microsoft, please see [Managing Phone Numbers](../managingphone).
+If Microsoft does not provide Calling Plans for a particular country, try other [PSTN options](../insertlinkhere) like [Operator Connect](../insertlinkhere) or [Direct Routing](../insertlinkhere).
 
 - [Calling Plans Availability by Country](#calling-plans-availability-by-country)
   - [Countries A-L](#countries-a-l)
   - [Countries M-Z](#countries-m-z)
+  - [Special Cases](#special-cases)
+    - [Australia](#australia)
+      - [If your tenant is located outside Australia](#if-your-tenant-is-located-outside-australia)
+    - [Japan](#japan)
+    - [Mexico](#mexico)
 
 ## Countries A-L
-|**Country**|**Available**|**Domestic Calling Plan**|**International Calling Plan**|**Pay-As-You-Go Calling Plan**|**Can Make Outbound Calls**|**Can Make Outbound Calls to Premium Numbers**|
-|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|[Australia](../phone-number-management-for-canada.md)<br/> |Yes  <br/> |120/240/1200 minute plans available  <br/> |Yes  <br/> |Yes  <br/> | Yes  <br/> | Yes  <br/> |
-|[Austria](../phone-number-management-for-canada.md)<br/> |Yes  <br/> |120/240/1200 minute plans available  <br/> |Yes  <br/> |Yes  <br/> | Yes  <br/> | Yes  <br/> |
-|[Belgium](../phone-number-management-for-canada.md)<br/> |Yes  <br/> |120/240/1200 minute plans available  <br/> |Yes  <br/> |Yes  <br/> | Yes  <br/> | Yes  <br/> |
-|[Canada](../phone-number-management-for-canada.md)<br/> |Yes  <br/> |120/240/1200 minute plans available  <br/> |Yes  <br/> |Yes  <br/> | Yes  <br/> | Yes  <br/> |
-|[Croatia](../phone-number-management-for-canada.md)<br/> |Yes  <br/> |120/240/1200 minute plans available  <br/> |Yes  <br/> |Yes  <br/> | Yes  <br/> | Yes  <br/> |
-|[Czech Republic](../phone-number-management-for-canada.md)<br/> |Yes  <br/> |120/240/1200 minute plans available  <br/> |Yes  <br/> |Yes  <br/> | Yes  <br/> | Yes  <br/> |
-|[Denmark](../phone-number-management-for-canada.md)<br/> |Yes  <br/> |120/240/1200 minute plans available  <br/> |Yes  <br/> |Yes  <br/> | Yes  <br/> | Yes  <br/> |
-|[Estonia](../phone-number-management-for-canada.md)<br/> |Yes  <br/> |120/240/1200 minute plans available  <br/> |Yes  <br/> |Yes  <br/> | Yes  <br/> | Yes  <br/> |
-|[Finland](../phone-number-management-for-canada.md)<br/> |Yes  <br/> |120/240/1200 minute plans available  <br/> |Yes  <br/> |Yes  <br/> | Yes  <br/> | Yes  <br/> |
-|[France](../phone-number-management-for-canada.md)<br/> |Yes  <br/> |120/240/1200 minute plans available  <br/> |Yes  <br/> |Yes  <br/> | Yes  <br/> | Yes  <br/> |
-|[Germany](../phone-number-management-for-canada.md)<br/> |Yes  <br/> |120/240/1200 minute plans available  <br/> |Yes  <br/> |Yes  <br/> | Yes  <br/> | Yes  <br/> |
-|[Hungary](../phone-number-management-for-canada.md)<br/> |Yes  <br/> |120/240/1200 minute plans available  <br/> |Yes  <br/> |Yes  <br/> | Yes  <br/> | Yes  <br/> |
-|[Ireland](../phone-number-management-for-canada.md)<br/> |Yes  <br/> |120/240/1200 minute plans available  <br/> |Yes  <br/> |Yes  <br/> | Yes  <br/> | Yes  <br/> |
-|[Italy](../phone-number-management-for-canada.md)<br/> |Yes  <br/> |120/240/1200 minute plans available  <br/> |Yes  <br/> |Yes  <br/> | Yes  <br/> | Yes  <br/> |
-|[Japan](../phone-number-management-for-canada.md)<br/> |Yes  <br/> |120/240/1200 minute plans available  <br/> |Yes  <br/> |Yes  <br/> | Yes  <br/> | Yes  <br/> |
-|[Latvia](../phone-number-management-for-canada.md)<br/> |Yes  <br/> |120/240/1200 minute plans available  <br/> |Yes  <br/> |Yes  <br/> | Yes  <br/> | Yes  <br/> |
-|[Lithuania](../phone-number-management-for-canada.md)<br/> |Yes  <br/> |120/240/1200 minute plans available  <br/> |Yes  <br/> |Yes  <br/> | Yes  <br/> | Yes  <br/> |
-|[Luxembourg](../phone-number-management-for-canada.md)<br/> |Yes  <br/> |120/240/1200 minute plans available  <br/> |Yes  <br/> |Yes  <br/> | Yes  <br/> | Yes  <br/> |
+| **Country**         | **Available**                              | **Domestic Calling Plan**                                                                                                                                                                                                          | **International Calling Plan** | **Pay-As-You-Go Calling Plan** | **Can Make Outbound Calls to Premium Numbers** |
+| :------------------ | :----------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------- | :----------------------------- | :--------------------------------------------- |
+| Australia<br/>      | See [special cases](#special-cases) <br/>  | -  <br/>                                                                                                                                                                                                                           | -  <br/>                       | -  <br/>                       | -  <br/>                                       |
+| Austria<br/>        | Yes  <br/>                                 | 120/240/1200 minute plans available  <br/>                                                                                                                                                                                         | Yes  <br/>                     | Yes  <br/>                     | Yes  <br/>                                     |
+| Belgium<br/>        | Yes  <br/>                                 | 120/240/1200 minute plans available  <br/>                                                                                                                                                                                         | Yes  <br/>                     | Yes  <br/>                     | No  <br/>                                      |
+| Canada<br/>         | Yes  <br/>                                 | 120/240/1200 minute plans available  <br/>                                                                                                                                                                                         | Yes  <br/>                     | Yes  <br/>                     | No  <br/>                                      |
+| Croatia<br/>        | Yes  <br/>                                 | 120/240/1200 minute plans available  <br/>                                                                                                                                                                                         | Yes  <br/>                     | Yes  <br/>                     | No  <br/>                                      |
+| Czech Republic<br/> | Yes  <br/>                                 | 120/240/1200 minute plans available  <br/>                                                                                                                                                                                         | Yes  <br/>                     | Yes  <br/>                     | No  <br/>                                      |
+| Denmark<br/>        | Yes  <br/>                                 | 120/240/1200 minute plans available  <br/>                                                                                                                                                                                         | Yes  <br/>                     | Yes  <br/>                     | No  <br/>                                      |
+| Estonia<br/>        | Yes  <br/>                                 | 120/240/1200 minute plans available  <br/>                                                                                                                                                                                         | Yes  <br/>                     | Yes  <br/>                     | No  <br/>                                      |
+| Finland<br/>        | Yes  <br/>                                 | 120/240/1200 minute plans available  <br/>                                                                                                                                                                                         | Yes  <br/>                     | Yes  <br/>                     | No  <br/>                                      |
+| France<br/>         | Yes  <br/>                                 | 120/240/1200 minute plans available  <br/>                                                                                                                                                                                         | Yes  <br/>                     | Yes  <br/>                     | Yes, with pay-per-minute  <br/>                |
+| Germany<br/>        | Yes  <br/>                                 | 120/240/1200 minute plans available  <br/>                                                                                                                                                                                         | Yes  <br/>                     | Yes  <br/>                     | No  <br/>                                      |
+| Hungary<br/>        | Yes  <br/>                                 | 120/240/1200 minute plans available  <br/>                                                                                                                                                                                         | Yes  <br/>                     | Yes  <br/>                     | No  <br/>                                      |
+| Ireland<br/>        | Yes  <br/>                                 | 120/240/1200 minute plans available  <br/>                                                                                                                                                                                         | Yes  <br/>                     | Yes  <br/>                     | No  <br/>                                      |
+| Italy<br/>          | Yes  <br/>                                 | 120/240/1200 minute plans available </br> [Tariff Transparency (IT)](https://www.microsoft.com/download/details.aspx?id=102426) </br>  [Tariff Transparency (EN)](https://www.microsoft.com/download/details.aspx?id=102426) <br/> | Yes  <br/>                     | Yes  <br/>                     | No  <br/>                                      |
+| Japan<br/>          | See [special cases](#special-cases)  <br/> | -  <br/>                                                                                                                                                                                                                           | -  <br/>                       | -  <br/>                       | -  <br/>                                       |
+| Latvia<br/>         | Yes  <br/>                                 | 120/240/1200 minute plans available  <br/>                                                                                                                                                                                         | Yes  <br/>                     | Yes  <br/>                     | No  <br/>                                      |
+| Lithuania<br/>      | Yes  <br/>                                 | 120/240/1200 minute plans available  <br/>                                                                                                                                                                                         | Yes  <br/>                     | Yes  <br/>                     | No  <br/>                                      |
+| Luxembourg<br/>     | Yes  <br/>                                 | 120/240/1200 minute plans available  <br/>                                                                                                                                                                                         | Yes  <br/>                     | Yes  <br/>                     | No  <br/>                                      |
 
 ## Countries M-Z
-|**Country**|**Available**|**Domestic Calling Plan**|**International Calling Plan**|**Pay-As-You-Go Calling Plan**|**Can Make Outbound Calls**|**Can Make Outbound Calls to Premium Numbers**|
-|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|[Mexico](../phone-number-management-for-canada.md)<br/> |Yes  <br/> |120/240/1200 minute plans available  <br/> |Yes  <br/> |Yes  <br/> | Yes  <br/> | Yes  <br/> |
-|[Netherlands](../phone-number-management-for-canada.md)<br/> |Yes  <br/> |120/240/1200 minute plans available  <br/> |Yes  <br/> |Yes  <br/> | Yes  <br/> | Yes  <br/> |
-|[New Zealand](../phone-number-management-for-canada.md)<br/> |Yes  <br/> |120/240/1200 minute plans available  <br/> |Yes  <br/> |Yes  <br/> | Yes  <br/> | Yes  <br/> |
-|[Norway](../phone-number-management-for-canada.md)<br/> |Yes  <br/> |120/240/1200 minute plans available  <br/> |Yes  <br/> |Yes  <br/> | Yes  <br/> | Yes  <br/> |
-|[Poland](../phone-number-management-for-canada.md)<br/> |Yes  <br/> |120/240/1200 minute plans available  <br/> |Yes  <br/> |Yes  <br/> | Yes  <br/> | Yes  <br/> |
-|[Portugal](../phone-number-management-for-canada.md)<br/> |Yes  <br/> |120/240/1200 minute plans available  <br/> |Yes  <br/> |Yes  <br/> | Yes  <br/> | Yes  <br/> |
-|[Romania](../phone-number-management-for-canada.md)<br/> |Yes  <br/> |120/240/1200 minute plans available  <br/> |Yes  <br/> |Yes  <br/> | Yes  <br/> | Yes  <br/> |
-|[Singapore](../phone-number-management-for-canada.md)<br/> |Yes  <br/> |120/240/1200 minute plans available  <br/> |Yes  <br/> |Yes  <br/> | Yes  <br/> | Yes  <br/> |
-|[Slovakia](../phone-number-management-for-canada.md)<br/> |Yes  <br/> |120/240/1200 minute plans available  <br/> |Yes  <br/> |Yes  <br/> | Yes  <br/> | Yes  <br/> |
-|[Slovenia](../phone-number-management-for-canada.md)<br/> |Yes  <br/> |120/240/1200 minute plans available  <br/> |Yes  <br/> |Yes  <br/> | Yes  <br/> | Yes  <br/> |
-|[South Africa](../phone-number-management-for-canada.md)<br/> |Yes  <br/> |120/240/1200 minute plans available  <br/> |Yes  <br/> |Yes  <br/> | Yes  <br/> | Yes  <br/> |
-|[Spain](../phone-number-management-for-canada.md)<br/> |Yes  <br/> |120/240/1200 minute plans available  <br/> |Yes  <br/> |Yes  <br/> | Yes  <br/> | Yes  <br/> |
-|[Sweden](../phone-number-management-for-canada.md)<br/> |Yes  <br/> |120/240/1200 minute plans available  <br/> |Yes  <br/> |Yes  <br/> | Yes  <br/> | Yes  <br/> |
-|[Switzerland](../phone-number-management-for-canada.md)<br/> |Yes  <br/> |120/240/1200 minute plans available  <br/> |Yes  <br/> |Yes  <br/> | Yes  <br/> | Yes  <br/> |
-|[United Kingdom](../phone-number-management-for-canada.md)<br/> |Yes  <br/> |120/240/1200 minute plans available  <br/> |Yes  <br/> |Yes  <br/> | Yes  <br/> | Yes  <br/> |
-|[United States](../phone-number-management-for-canada.md)<br/> |Yes  <br/> |120/240/1200 minute plans available  <br/> |Yes  <br/> |Yes  <br/> | Yes  <br/> | Yes  <br/> |
+| **Country**         | **Available**                              | **Domestic Calling Plan**                  | **International Calling Plan** | **Pay-As-You-Go Calling Plan** | **Can Make Outbound Calls to Premium Numbers**                                                                                                                                                                                                |
+| :------------------ | :----------------------------------------- | :----------------------------------------- | :----------------------------- | :----------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Mexico<br/>         | See [special cases](#special-cases)  <br/> | -  <br/>                                   | -  <br/>                       | -  <br/>                       | -  <br/>                                                                                                                                                                                                                                      |
+| Netherlands<br/>    | Yes  <br/>                                 | 120/240/1200 minute plans available  <br/> | Yes  <br/>                     | Yes  <br/>                     | No  <br/>                                                                                                                                                                                                                                     |
+| New Zealand<br/>    | Yes  <br/>                                 | 120/240/1200 minute plans available  <br/> | Yes  <br/>                     | Yes  <br/>                     | No  <br/>                                                                                                                                                                                                                                     |
+| Norway<br/>         | Yes  <br/>                                 | 120/240/1200 minute plans available  <br/> | Yes  <br/>                     | Yes  <br/>                     | No  <br/>                                                                                                                                                                                                                                     |
+| Poland<br/>         | Yes  <br/>                                 | 120/240/1200 minute plans available  <br/> | Yes  <br/>                     | Yes  <br/>                     | No  <br/>                                                                                                                                                                                                                                     |
+| Portugal<br/>       | Yes  <br/>                                 | 120/240/1200 minute plans available  <br/> | Yes  <br/>                     | Yes  <br/>                     | No  <br/>                                                                                                                                                                                                                                     |
+| Romania<br/>        | Yes  <br/>                                 | 120/240/1200 minute plans available  <br/> | Yes  <br/>                     | Yes  <br/>                     | No  <br/>                                                                                                                                                                                                                                     |
+| Singapore<br/>      | Yes  <br/>                                 | 120/240/1200 minute plans available  <br/> | Yes  <br/>                     | Yes  <br/>                     | No  <br/>                                                                                                                                                                                                                                     |
+| Slovakia<br/>       | Yes  <br/>                                 | 120/240/1200 minute plans available  <br/> | Yes  <br/>                     | Yes  <br/>                     | No  <br/>                                                                                                                                                                                                                                     |
+| Slovenia<br/>       | Yes  <br/>                                 | 120/240/1200 minute plans available  <br/> | Yes  <br/>                     | Yes  <br/>                     | No  <br/>                                                                                                                                                                                                                                     |
+| South Africa<br/>   | Yes  <br/>                                 | 120/240/1200 minute plans available  <br/> | Yes  <br/>                     | Yes  <br/>                     | No  <br/>                                                                                                                                                                                                                                     |
+| Spain<br/>          | Yes  <br/>                                 | 120/240/1200 minute plans available  <br/> | Yes  <br/>                     | Yes  <br/>                     | No  <br/>                                                                                                                                                                                                                                     |
+| Sweden<br/>         | Yes  <br/>                                 | 120/240/1200 minute plans available  <br/> | Yes  <br/>                     | Yes  <br/>                     | No  <br/>                                                                                                                                                                                                                                     |
+| Switzerland<br/>    | Yes  <br/>                                 | 120/240/1200 minute plans available  <br/> | Yes  <br/>                     | Yes  <br/>                     | No  <br/>                                                                                                                                                                                                                                     |
+| United Kingdom<br/> | Yes  <br/>                                 | 120/240/1200 minute plans available  <br/> | Yes  <br/>                     | Yes  <br/>                     | Partially supported: Calls to shared cost </br> numbers (prefixes 44843, 44844, 44845, 44870, 44871, 44872) </br> are supported using Communications Credits to </br> pay per minute. </br> Calls to 449XX prefixes are not supported.  <br/> |
+| United States<br/>  | Yes  <br/>                                 | 120/240/1200 minute plans available  <br/> | Yes  <br/>                     | Yes  <br/>                     | No  <br/>                                                                                                                                                                                                                                    |
+
+## Special Cases
+
+### Australia
+
+|**Feature**|**Details**|
+|:-----|:-----|
+|Calling Plans are available to purchase?  <br/> |Yes,  see [Telstra Calling](https://aka.ms/TelstraVoicePlan).  <br/> |
+|Minutes available for Calling Plans  <br/> |See [Telstra Calling](https://aka.ms/TelstraVoicePlan). <br/> |
+|Can make outbound calls to?  <br/> |See [Telstra Calling](https://aka.ms/TelstraVoicePlan). <br/> |
+
+> [!IMPORTANT]
+> To delete Australian subscriber numbers (provided by Telstra), contact Telstra directly.
+> To update emergency address information for Australian subscriber numbers (provided by Telstra), contact Telstra directly.
+> For more information, see [Telstra Calling](https://aka.ms/TelstraVoicePlan).
+
+#### If your tenant is located outside Australia
+
+Starting September 1, 2019, if your tenant is located outside Australia, you can purchase Calling Plans for users who are located in Australia. This is available for the following countries and regions.
+
+|**Feature**|**Details**|
+|---------|---------|
+|Americas    |United States, U.S. Outlying Islands      |
+|APAC     |Bangladesh, Bhutan, Brunei, Cambodia, Hong Kong, Indonesia, Laos, Macao, Malaysia, Maldives, Myanmar, Nepal, Philippines, Singapore, Sri Lanka, Thailand, Timor-Leste, Vietnam|
+|EMEA    |Åland Islands, Andorra, Austria, Belgium, Bouvet Island, Bulgaria, Croatia, Cyprus, Czech Republic, Denmark, Estonia, Faroe Islands, Finland, France, Germany, Gibraltar, Greece, Greenland, Guernsey, Hungary, Iceland, Ireland, Isle of Man, Italy, Jan Mayen, Jersey, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Monaco, Netherlands, Norway, Poland, Portugal, Romania, San Marino, Slovakia, Slovenia, Spain, Svalbard, Sweden, Switzerland, United Kingdom, Vatican City  |
+
+Note that Telstra Calling will show up as an add-on only for users who are located in Australia and the countries and regions listed above, once provisioned by Telstra. For users in other geographies, they'll continue to attach Microsoft Calling Plans or Direct Routing, as applicable. For more information, see [Telstra Calling](https://aka.ms/TelstraVoicePlan).
+
+### Japan
+
+
+### Mexico
+
+|**Feature**|**Details**|
+|:-----|:-----|
+|Calling Plans are available to purchase?  <br/> |Yes. Mexico has specific Calling Plan offers that need to be purchased as shown below. The generic Calling Plan offer can't be used to obtain numbers in Mexico. <br/><ul><li>Microsoft Teams Domestic Calling Plan (Mexico)</li><ul><li>**SKU Part Name:** `Microsoft_Teams_Domestic_Calling_Plan_(Mexico)`</li></ul><li>Microsoft Teams Domestic and International Calling Plan (Mexico)</li><ul><li>**SKU Part Name:** `Microsoft_Teams_Domestic_and_International_Calling_Plan_(Mexico)`</li></ul><li>Microsoft Teams Calling Plan pay-as-you-go (Mexico)</li><ul><li>**SKU Part Name:** `Microsoft_Teams_Calling_Plan_pay_as_you_go_(Mexico)`</li></ul></ul> |
+|Minutes available for Calling Plans  <br/> |<ul><li>Pay-As-You-Go Calling Plan</li><li>1200-minute Domestic Calling Plan</li><li>Domestic and International Calling Plan: 1200 minutes of domestic -OR- 600 minutes of international calling (whichever is reached first in the calendar month)</li></ul><br/> |
+|Can make outbound calls to premium numbers? <br/> |Not supported at this time <br/> |
+|Can make outbound call to? <br/> |To 196 countries, including [these countries and regions](country-and-region-availability-for-audio-conferencing-and-calling-plans.md). <br/> |
+
