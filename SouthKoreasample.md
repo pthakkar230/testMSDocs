@@ -28,21 +28,21 @@ Here are the Microsoft 365 and Office 365 services for Skype for Business and Mi
 
 Calling Plans are to purchase user numbers. If you want to get numbers for your users, see [Getting phone numbers for your users](https://learn.microsoft.com/en-us/microsoftteams/getting-phone-numbers-for-your-users)
 
-If Calling Plans are not available to purchase, see [PSTN connectivity options](../pstn-connectivity.md) for all available options. 
+If Calling Plans are not available to purchase, see other [PSTN connectivity options](../pstn-connectivity.md) for all available options. 
    
-## [Toll and toll-free numbers for Services (VoiceApps and Audio Conferencing)](https://learn.microsoft.com/en-us/microsoftteams/country-and-region-availability-for-audio-conferencing-and-calling-plans/country-and-region-availability-for-audio-conferencing-and-calling-plans#microsoft-teams-calling-plans)
+## [Toll and toll-free numbers for Services (VoiceApps and Audio Conferencing)](https://learn.microsoft.com/en-us/microsoftteams/country-and-region-availability-for-audio-conferencing-and-calling-plans/country-and-region-availability-for-audio-conferencing-and-calling-plans#toll-and-toll-free-phone-numbers-for-services)
 
 | **Feature**                                                        | **Details**           |
 | :----------------------------------------------------------------- | :-------------------- |
-| Are numbers available for Audio Conferencing? </br>                | Yes </br>             |
-| Are numbers available for Voice Apps? </br>                        | Yes </br>             |
+| Are Audio Conferencing numbers available to purchase? </br>        | Yes </br>             |
+| Are Voice Apps numbers available to purchase? </br>                | Yes </br>             |
 | What capitals or major cities can you get toll numbers for?  <br/> | Not applicable  <br/> |
 | Are toll numbers available?  <br/>                                 | Yes  <br/>            |
 | Are toll-free numbers available?  <br/>                            | Yes  <br/>            |
    
  If you want to get toll and toll-free phone numbers for Audio Conferencing, Auto attendants, and Call queues, see [Getting service phone numbers for Skype for Business and Microsoft Teams](../getting-service-phone-numbers.md).
   
-## [Communications Credits](https://learn.microsoft.com/en-us/microsoftteams/country-and-region-availability-for-audio-conferencing-and-calling-plans/country-and-region-availability-for-audio-conferencing-and-calling-plans#microsoft-teams-calling-plans)
+## [Communications Credits](https://learn.microsoft.com/en-us/microsoftteams/country-and-region-availability-for-audio-conferencing-and-calling-plans/country-and-region-availability-for-audio-conferencing-and-calling-plans#communications-credits)
 
 | **Feature**                                  | **Details** |
 | :------------------------------------------- | :---------- |
