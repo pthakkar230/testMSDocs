@@ -17,9 +17,6 @@ Here are the Microsoft 365 and Office 365 services for Skype for Business and Mi
 | **Feature**                                    | **Details**      |
 | :--------------------------------------------- | :--------------- |
 | Is Phone System available for purchase?  <br/> | Yes  <br/>       |
-| Auto attendants <br/>                          | Available  <br/> |
-| Call queues  <br/>                             | Available  <br/> |
-| Voicemail  <br/>                               | Available  <br/> |
    
 ## [Calling Plans](https://learn.microsoft.com/en-us/microsoftteams/country-and-region-availability-for-audio-conferencing-and-calling-plans/country-and-region-availability-for-audio-conferencing-and-calling-plans#microsoft-teams-calling-plans)
 
@@ -32,7 +29,7 @@ Here are the Microsoft 365 and Office 365 services for Skype for Business and Mi
 
 Calling Plans are to purchase user numbers. If you want to get numbers for your users, see [Getting phone numbers for your users](https://learn.microsoft.com/en-us/microsoftteams/getting-phone-numbers-for-your-users)
 
-In Calling Plans markets, number porting is available for user numbers and sometimes service numbers. Please see [Phone number management for the Czech Republic](https://learn.microsoft.com/en-us/microsoftteams/manage-phone-numbers-for-your-organization/phone-number-management-for-czech-republic) for more details.
+In Calling Plans markets, number porting is available for user numbers and in certain cases, service numbers. Please see [Phone number management for the Czech Republic](https://learn.microsoft.com/en-us/microsoftteams/manage-phone-numbers-for-your-organization/phone-number-management-for-czech-republic) for more details.
    
 ## [Toll and toll-free numbers for Services (VoiceApps and Audio Conferencing)](https://learn.microsoft.com/en-us/microsoftteams/country-and-region-availability-for-audio-conferencing-and-calling-plans/country-and-region-availability-for-audio-conferencing-and-calling-plans#toll-and-toll-free-phone-numbers-for-services)
 
