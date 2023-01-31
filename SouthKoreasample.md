@@ -41,6 +41,8 @@ If Calling Plans are not available to purchase, see other [PSTN connectivity opt
 | Are toll-free numbers available?  <br/>                            | Yes  <br/>            |
    
  If you want to get toll and toll-free phone numbers for Audio Conferencing, Auto attendants, and Call queues, see [Getting service phone numbers for Skype for Business and Microsoft Teams](../getting-service-phone-numbers.md).
+
+ If a service number type isn't available to purchase from Microsoft, see other [PSTN connectivity options](../pstn-connectivity.md) for all available options. 
   
 ## [Communications Credits](https://learn.microsoft.com/en-us/microsoftteams/country-and-region-availability-for-audio-conferencing-and-calling-plans/country-and-region-availability-for-audio-conferencing-and-calling-plans#communications-credits)
 
