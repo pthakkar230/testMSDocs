@@ -8,7 +8,7 @@ Here are the Microsoft 365 and Office 365 services for Skype for Business and Mi
 
 | **Feature**                                                             | **Details**                                                                                                                                                                                        |
 | :---------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Is Audio Conferencing available for purchase?  <br/>                    | Yes  <br/>                                                                                                                                                                                         |
+| Are Audio Conferencing licenses available for purchase?  <br/>                    | Yes  <br/>                                                                                                                                                                                         |
 | Are phone numbers automatically assigned for Audio Conferencing?  <br/> | Yes, for: <br/><ul><li> Seoul</ul>If you want dedicated phone numbers, see [Getting service phone numbers for Skype for Business and Microsoft Teams](../getting-service-phone-numbers.md).  <br/> |
 | Dial-out capability using the Call Me feature  <br/>                    | Available  <br/>                                                                                                                                                                                   |
    
@@ -16,13 +16,13 @@ Here are the Microsoft 365 and Office 365 services for Skype for Business and Mi
 
 | **Feature**                                    | **Details** |
 | :--------------------------------------------- | :---------- |
-| Is Phone System available for purchase?  <br/> | Yes  <br/>  |
+| Are Phone System licenses available for purchase?  <br/> | Yes  <br/>  |
    
 ## [Calling Plans](https://learn.microsoft.com/en-us/microsoftteams/country-and-region-availability-for-audio-conferencing-and-calling-plans/country-and-region-availability-for-audio-conferencing-and-calling-plans#microsoft-teams-calling-plans)
 
 | **Feature**                                     | **Details**           |
 | :---------------------------------------------- | :-------------------- |
-| Calling Plans are available to purchase?  <br/> | No  <br/>             |
+| Are Calling Plans licenses available to purchase?  <br/> | No  <br/>             |
 | Minutes available for Calling Plans  <br/>      | Not applicable  <br/> |
 | Can make outbound calls to?  <br/>              | Not applicable  <br/> |
 
