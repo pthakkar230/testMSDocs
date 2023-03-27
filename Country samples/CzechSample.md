@@ -4,7 +4,7 @@
 
 Here are the Microsoft 365 and Office 365 services for Skype for Business and Microsoft Teams available for the Czech Republic.
   
-## [Audio Conferencing](https://learn.microsoft.com/en-us/microsoftteams/country-and-region-availability-for-audio-conferencing-and-calling-plans/country-and-region-availability-for-audio-conferencing-and-calling-plans#audio-conferencing)
+## Audio Conferencing
 
 | **Feature**                                                             | **Details**                                                                                                                                                                                        |
 | :---------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -12,13 +12,7 @@ Here are the Microsoft 365 and Office 365 services for Skype for Business and Mi
 | Are phone numbers automatically assigned for Audio Conferencing?  <br/> | Yes, for:<br/><ul><li> Prague</ul>If you want dedicated phone numbers, see [Getting service phone numbers for Skype for Business and Microsoft Teams](../getting-service-phone-numbers.md).  <br/> |
 | Dial-out capability using the Call Me feature  <br/>                    | Available  <br/>                                                                                                                                                                                   |
    
-## [Phone System](https://learn.microsoft.com/en-us/microsoftteams/country-and-region-availability-for-audio-conferencing-and-calling-plans/country-and-region-availability-for-audio-conferencing-and-calling-plans#phone-system)
-
-| **Feature**                                    | **Details**      |
-| :--------------------------------------------- | :--------------- |
-| Are Phone System licenses available for purchase?  <br/> | Yes  <br/>       |
-   
-## [Calling Plans](https://learn.microsoft.com/en-us/microsoftteams/country-and-region-availability-for-audio-conferencing-and-calling-plans/country-and-region-availability-for-audio-conferencing-and-calling-plans#microsoft-teams-calling-plans)
+## Calling Plans
 
 | **Feature**                                        | **Details**                                                                                                                                                                                                                                                                                                                                                                                           |
 | :------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -31,12 +25,10 @@ Calling Plans are to purchase user numbers. If you want to get numbers for your 
 
 In Calling Plans markets, number porting is available for user numbers and in certain cases, service numbers. Please see [Phone number management for the Czech Republic](https://learn.microsoft.com/en-us/microsoftteams/manage-phone-numbers-for-your-organization/phone-number-management-for-czech-republic) for more details.
    
-## [Toll and toll-free numbers for Services (VoiceApps and Audio Conferencing)](https://learn.microsoft.com/en-us/microsoftteams/country-and-region-availability-for-audio-conferencing-and-calling-plans/country-and-region-availability-for-audio-conferencing-and-calling-plans#toll-and-toll-free-phone-numbers-for-services)
+## Toll and toll-free numbers for Services
 
 | **Feature**                                                             | **Details**                                                                        |
 | :---------------------------------------------------------------------- | :--------------------------------------------------------------------------------- |
-| Are Audio Conferencing numbers available to purchase? </br>             | Yes </br>                                                                          |
-| Are Auto Attendant and Call Queues numbers available to purchase? </br> | Yes </br>                                                                          |
 | What capitals or major cities can you get toll numbers for?  <br/>      | <ul><li>Hradec Kralove <li>  Liberec <li>  Olomouc <li>  Pilsen <li>  Prague </ul> |
 | Are toll numbers available?  <br/>                                      | Yes  <br/>                                                                         |
 | Are toll-free numbers available?  <br/>                                 | Yes  <br/>                                                                         |
@@ -52,8 +44,6 @@ In Calling Plans markets, number porting is available for user numbers and in ce
 If you want to set them up, see [Set up Communications Credits for your organization](../set-up-communications-credits-for-your-organization.md).
   
 ## Related topics
-
-[Phone number management for the Czech Republic](https://learn.microsoft.com/en-us/microsoftteams/manage-phone-numbers-for-your-organization/phone-number-management-for-czech-republic) for more details.
 
 [Getting phone numbers for your users](https://learn.microsoft.com/en-us/microsoftteams/getting-phone-numbers-for-your-users)
 
